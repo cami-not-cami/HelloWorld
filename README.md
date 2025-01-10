@@ -4,4 +4,4 @@ Das ist das README von unserem Hello World Git Unterricht :)
 Diese Zeile ist für den Bugfix Merge! :O
 
 Änderung für unserem neuem Branch! :(
-
+Änderung von GitHub direkt! 
