@@ -3,3 +3,4 @@ Bug fix für Merge Beispiel!
 
 Das ist eine neue Zeile  im Dokument!
 
+Änderung von GitHub
